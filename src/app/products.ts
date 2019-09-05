@@ -18,6 +18,11 @@ export const products = [
     name: 'Önder Abi',
     price: 1500,
     description: 'Önder abinin açıklaması'
+  },
+  {
+    name: 'Özgür Abi',
+    price: 5500,
+    description: 'Özgür abinin açıklaması'
   }
 ];
 
